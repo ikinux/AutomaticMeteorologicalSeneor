@@ -1,2 +1,3 @@
 # AutomaticMeteorologicalSeneor
 自动气象站数据解析程序
+按位读取自动气象站RS485接口回传数据，解析成为天气要素值并在屏幕显示。
